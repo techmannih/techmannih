@@ -43,8 +43,8 @@
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/techmannih)
 [![Twitter](https://img.shields.io/badge/twitter-%2300ac.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/techmannih)
-
-
+ ## @techmannih's Holopin badges
+[![An image of @techmannih's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/techmannih)](https://holopin.io/@techmannih)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techmannih&show_icons=true&locale=en" alt="techmannih" /></p>
 
