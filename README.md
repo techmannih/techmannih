@@ -46,6 +46,3 @@
  ## @techmannih's Holopin badges
 [![An image of @techmannih's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/techmannih)](https://holopin.io/@techmannih)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techmannih&show_icons=true&locale=en" alt="techmannih" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techmannih&" alt="techmannih" /></p>
