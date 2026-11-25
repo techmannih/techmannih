@@ -63,7 +63,7 @@ A full-stack application for hackathon discovery and team coordination, built du
 - **Google OAuth 2.0** sign-in and event notifications.
 - **Stack:** React, Node.js, Express, MongoDB.
 
-### [Footprint Comparison & Validation Tool](https://github.com/techmannih/footprinter-jlcpcb-validator)
+### [Fast Footprint Compare — Footprint Comparison & Validation Tool](https://github.com/tscircuit/fast-footprint-compare)
 
 A developer tool for comparing generated component footprints with supplier data.
 
