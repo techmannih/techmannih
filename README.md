@@ -17,35 +17,7 @@
 I'm a Software Engineer based in **Faridabad, India**. I build web applications, reusable TypeScript libraries and developer tools, connecting **React/Next.js interfaces** with **Node.js/Express APIs** and database-backed workflows.
 
 My experience spans contract development, open-source maintenance and frontend engineering. I work on API integrations, authentication, automated testing, interactive visualizations and software for electronics design.
-
-## Experience
-
-### tscircuit
-
-| Role | Period |
-| --- | --- |
-| Software Developer — Contract | May 2026 – Nov 2026 |
-| Open-Source Maintainer | Nov 2025 – Apr 2026 |
-| Open-Source Contributor | Dec 2024 – Oct 2025 |
-
-- Built React and Express applications with typed APIs, input validation and interactive visual comparisons.
-- Integrated supplier availability, pricing, bill-of-materials generation and CSV/PDF export workflows.
-- Maintained shared TypeScript libraries, improved CAD import/export and 2D/3D rendering, and added regression tests across developer tools.
-
-### Antiwork
-
-**Software Developer — Contract · Aug 2025 – Sep 2025**
-
-- Implemented Helper client-tool caching and retrieval using **PostgreSQL and Drizzle ORM**, with customer-specific records, global fallback and Vitest coverage.
-- Extended chat APIs and React SDK hooks; fixed Gumboard note counts and empty-state visibility, with **Playwright regression tests**.
-
-### Prodigal AI
-
-**Gen AI Web Intern · Sep 2024 – Nov 2024**
-
-- Developed **React.js, Next.js and TypeScript** interfaces for Voyex and Conch ERP, integrating REST APIs for business workflows.
-
-## Selected projects
+## projects
 
 ### [Buyora — E-commerce Application](https://github.com/techmannih/ECommerce)
 
